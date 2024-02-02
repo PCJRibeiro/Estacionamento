@@ -1,0 +1,14 @@
+D:\Códigos\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net7.0\Estacionamento.exe
+D:\Códigos\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net7.0\Estacionamento.deps.json
+D:\Códigos\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net7.0\Estacionamento.runtimeconfig.json
+D:\Códigos\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net7.0\Estacionamento.dll
+D:\Códigos\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net7.0\Estacionamento.pdb
+D:\Códigos\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net7.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Códigos\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net7.0\Estacionamento.AssemblyInfoInputs.cache
+D:\Códigos\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net7.0\Estacionamento.AssemblyInfo.cs
+D:\Códigos\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net7.0\Estacionamento.csproj.CoreCompileInputs.cache
+D:\Códigos\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net7.0\Estacionamento.dll
+D:\Códigos\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net7.0\refint\Estacionamento.dll
+D:\Códigos\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net7.0\Estacionamento.pdb
+D:\Códigos\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net7.0\Estacionamento.genruntimeconfig.cache
+D:\Códigos\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net7.0\ref\Estacionamento.dll
